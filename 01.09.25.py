@@ -32,7 +32,6 @@
 #  ["вода", "картопля", "морква", "м'ясо"],
 #  "Варимо всі інгредієнти до готовності", 45)
 
-
 class Recipe:
     def __init__(self, name,ingredients,text , time):
         self.name =name
